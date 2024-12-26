@@ -7,7 +7,7 @@ from colorama import init, Fore
 init()
 
 # Set the URL for redirection
-redirect_url = "https://github.com/TejasLamba2006"
+redirect_url = "https://github.com/scynrays"
 
 # Print colored text with redirection URL
 print(Fore.MAGENTA + "Made by " + Fore.BLUE + "visa2code")
