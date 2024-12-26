@@ -17,7 +17,7 @@ def domain_scanner(domain, direc):
             pass
  
 
-print("MADE BY DEV7KNIGHT")
+print("MADE BY SCYNRAYS")
 
 print("Please dont be dumb and enter url only enter domain")
 domain = input("Enter the Domain Name: ")
